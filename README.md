@@ -27,7 +27,7 @@ No complex setup. No advanced coding required.
 
 ## 📸 Preview
 
-![NovaForge](screenshot.png)
+![NovaForge](https://github.com/buiri1986/Cnovaforge-public/blob/main/app-main.png)
 
 ---
 
