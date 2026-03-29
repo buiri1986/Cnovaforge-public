@@ -1,75 +1,83 @@
-
 # 🚀 NovaForge AI Studio
 
-NovaForge AI Studio est une application desktop puissante qui permet de générer, construire et lancer des applications Python automatiquement grâce à l’IA.
+## 🔥 Create desktop apps with AI and export them as .exe in seconds
+
+NovaForge AI Studio is a powerful desktop application that lets you **generate, build, and export Python apps automatically using AI**.
+
+No complex setup. No advanced coding required.
 
 ---
 
-## ⚡ Fonctionnalités principales
+## ⚡ What you can do
 
-- 🤖 Génération de code avec IA (local / Ollama)
-- 🧠 Builder intelligent d'applications
-- 🖥️ Interface moderne (CustomTkinter)
-- ⚙️ Outils développeur intégrés
-- 📦 Build automatique d'applications
-- 🔐 Système de licence PRO sécurisé
-
----
-
-## 📸 Aperçu
-
-![NovaForge](screenshots/app_main.png)
+- 🤖 Generate apps using AI (local / Ollama)
+- 🧠 Build full applications in seconds
+- 🖥️ Use a modern UI (CustomTkinter)
+- ⚙️ Access built-in developer tools
+- 📦 Export your app as a Windows `.exe`
+- 🔐 Unlock PRO features with license
 
 ---
 
-## 🎯 Cas d'utilisation
+## 🎥 Demo (coming soon)
 
-- Création rapide d'applications desktop
-- Prototypage rapide
-- Génération de scripts Python
-- Outils internes automatisés
-- Développement assisté par IA
+👉 Demo video will be available soon
 
 ---
 
-## 💰 Version PRO
+## 📸 Preview
 
-La version PRO débloque toutes les fonctionnalités avancées :
-
-- Accès complet aux modules IA
-- Génération illimitée
-- Dashboard PRO
-- Fonctionnalités avancées développeur
+![NovaForge](screenshot.png)
 
 ---
 
-## 🔐 Licence
+## 🎯 Use cases
 
-Ce projet est propriétaire.
-
-Toute reproduction, modification ou redistribution est interdite sans autorisation.
-
+- Build desktop apps fast
+- Prototype ideas instantly
+- Generate Python scripts
+- Create internal tools
+- AI-assisted development
 
 ---
-
-## 🧠 Auteur
-
-NovaForge AI Studio © 2026
 
 ## 🆓 Free vs 💎 PRO
 
-| Fonctionnalité | Free | PRO |
-|----------------|------|-----|
-| Génération IA | Limitée | Illimitée |
-| Builder app | ✔️ | ✔️ |
-| Export projet | ✔️ | ✔️ |
+| Feature | Free | PRO |
+|--------|------|-----|
+| AI Generation | Limited | Unlimited |
+| App Builder | ✔️ | ✔️ |
+| Export Project | ✔️ | ✔️ |
 | Dashboard PRO | ❌ | ✔️ |
-| Outils avancés | ❌ | ✔️ |
+| Advanced Tools | ❌ | ✔️ |
 | Support | ❌ | ✔️ |
-| Licence | ❌ | ✔️ |
+| License | ❌ | ✔️ |
 
 ---
 
-## 💳 Acheter la version PRO
+## 💰 Upgrade to PRO
 
-👉 "https://www.paypal.com/ncp/payment/32YZACU8VL3LJ
+Unlock all features for only **15€**
+
+👉 https://www.paypal.com/ncp/payment/32YZACU8VL3LJ
+
+---
+
+## 📥 Download
+
+👉 Download the latest version here:  
+https://github.com/buiri1986/Cnovaforge-public/releases
+
+---
+
+## 🔐 License
+
+This project is proprietary.
+
+Unauthorized reproduction or redistribution is strictly prohibited.
+
+---
+
+## 🧠 Author
+
+NovaForge AI Studio © 2026
