@@ -1,41 +1,104 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NovaForge AI Studio</title>
+    <title>NovaForge</title>
     <style>
-        body {
-            font-family: Segoe UI;
-            background: #0f0f0f;
-            color: white;
-            text-align: center;
-            padding: 50px;
+        body{
+            font-family:Segoe UI,Arial,sans-serif;
+            background:#0b1220;
+            color:white;
+            margin:0;
+            padding:0;
         }
-        .box {
-            background: #1a1a1a;
-            padding: 30px;
-            border-radius: 16px;
-            display: inline-block;
+
+        .hero{
+            max-width:1000px;
+            margin:auto;
+            padding:80px 30px;
+            text-align:center;
         }
-        button {
-            padding: 12px 20px;
-            border-radius: 10px;
-            border: none;
-            background: #1f6aa5;
-            color: white;
-            font-size: 16px;
+
+        h1{
+            font-size:56px;
+            margin-bottom:10px;
+        }
+
+        h2{
+            color:#4da3ff;
+            font-weight:400;
+        }
+
+        p{
+            font-size:18px;
+            line-height:1.7;
+        }
+
+        .btn{
+            display:inline-block;
+            padding:15px 30px;
+            background:#1f6aa5;
+            color:white;
+            text-decoration:none;
+            border-radius:10px;
+            margin-top:20px;
+        }
+
+        .features{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+            gap:20px;
+            max-width:1100px;
+            margin:auto;
+            padding:40px;
+        }
+
+        .card{
+            background:#131c2f;
+            padding:25px;
+            border-radius:12px;
         }
     </style>
 </head>
 <body>
 
-<h1>NovaForge AI Studio</h1>
-<p>Crée des applications avec IA</p>
+<div class="hero">
+    <h1>NovaForge</h1>
 
-<div class="box">
-    <h2>Version PRO</h2>
-    <p>Débloque toutes les fonctionnalités</p>
-    <h3>15€</h3>
-    <button>Acheter</button>
+    <h2>AI-Powered Application Creation Platform</h2>
+
+    <p>
+        NovaForge is an AI-driven software creation platform designed to help
+        entrepreneurs, startups, SMEs and developers transform ideas into
+        production-ready applications faster than traditional development methods.
+    </p>
+
+    <a href="https://github.com/buiri1986/Cnovaforge-public" class="btn">
+        View Project
+    </a>
+</div>
+
+<div class="features">
+
+    <div class="card">
+        <h3>AI Project Builder</h3>
+        <p>Generate complete applications using natural language.</p>
+    </div>
+
+    <div class="card">
+        <h3>Deploy Monitor</h3>
+        <p>Deploy and monitor applications on Docker, VPS and cloud environments.</p>
+    </div>
+
+    <div class="card">
+        <h3>Monitoring Dashboard</h3>
+        <p>Track performance, resources and application health in real time.</p>
+    </div>
+
+    <div class="card">
+        <h3>AI Integrations</h3>
+        <p>Connect multiple AI providers and automation services.</p>
+    </div>
+
 </div>
 
 </body>
