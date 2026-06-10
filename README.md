@@ -16,11 +16,33 @@ NovaForge aims to reduce these barriers by automating the entire application lif
 
 * Requirements analysis
 * Application generation
-* UI creation
+* User interface creation
 * API and database generation
 * Docker environment creation
 * Deployment automation
 * Monitoring and maintenance
+
+By reducing technical complexity, NovaForge enables innovators to focus on ideas and business value rather than infrastructure and development challenges.
+
+---
+
+## Screenshots
+
+### AI Project Builder
+
+Generate complete applications from natural language descriptions.
+
+### Deploy Monitor
+
+Monitor deployments, services, containers and application health.
+
+### Monitoring Dashboard
+
+Track system performance, resources and project metrics.
+
+### Project Workspace
+
+Manage projects, files, code and application assets from a unified interface.
 
 ---
 
@@ -33,23 +55,44 @@ NovaForge aims to reduce these barriers by automating the entire application lif
 * Linux, VPS and NAS deployment
 * API integration
 * Monitoring and maintenance tools
+* Project management workspace
 * Extensible plugin ecosystem
+* Developer productivity tools
 
 ---
 
 ## Current Development Stage
 
-NovaForge is currently in active MVP development.
+NovaForge is currently at MVP stage and under active development.
 
-The platform already includes:
+Implemented modules:
 
-* Project generation engine
-* Deployment automation tools
-* Developer workspace
+* AI Project Builder
+* Project Management
+* Monitoring Dashboard
+* API Integration
+* Deployment Tools
+* Deploy Monitor
+* Developer Workspace
+* Licensing System
+
+Additional AI agents and advanced automation capabilities are currently being developed.
+
+---
+
+## MVP Status
+
+NovaForge MVP is already functional and includes:
+
+* Project generation
+* AI-assisted workflows
+* Monitoring tools
+* Deployment automation
+* Developer workspace modules
 * API integrations
-* Monitoring modules
+* System monitoring capabilities
 
-Additional AI agents and advanced automation capabilities are under development.
+The platform is continuously evolving through iterative development and user feedback.
 
 ---
 
@@ -66,7 +109,50 @@ NovaForge targets:
 * Software agencies
 * Educational institutions
 
-with a scalable SaaS business model.
+through a scalable SaaS business model.
+
+As demand for AI-assisted software creation continues to grow, NovaForge aims to position itself as a complete software lifecycle platform rather than a simple code generation tool.
+
+---
+
+## Competitive Advantage
+
+Unlike many AI development tools focused solely on code generation, NovaForge aims to cover the entire software lifecycle:
+
+* Idea to application generation
+* Architecture design
+* Code generation
+* Deployment automation
+* Monitoring and maintenance
+* Infrastructure management
+
+This integrated approach reduces complexity and accelerates software delivery.
+
+---
+
+## Roadmap
+
+### 2026
+
+* MVP stabilization
+* Deploy Monitor enhancements
+* Advanced AI project generation
+* Multi-provider AI support
+* User experience improvements
+
+### 2027
+
+* AI Agents ecosystem
+* Marketplace for plugins and templates
+* Team collaboration features
+* Cloud deployment automation
+
+### 2028
+
+* Enterprise Edition
+* Advanced multi-agent orchestration
+* International expansion
+* Industry-specific solutions
 
 ---
 
@@ -76,12 +162,28 @@ NovaForge aims to become a complete AI-powered software creation ecosystem cover
 
 The long-term objective is to build a European technology platform capable of accelerating digital innovation for businesses of all sizes.
 
+By combining artificial intelligence, automation and cloud technologies, NovaForge seeks to make software creation faster, more accessible and more affordable worldwide.
+
 ---
 
-"NovaForge MVP is already functional and includes project generation, AI-assisted workflows, monitoring tools, deployment automation and developer workspace modules."
+## Technology Stack
 
-## Author
+NovaForge leverages modern technologies including:
 
-Wirdane
+* Artificial Intelligence
+* Python
+* Docker
+* Cloud Infrastructure
+* API Integrations
+* Linux-based Deployment Systems
+* Monitoring and Automation Tools
 
-Founder of NovaForge
+---
+
+## Founder
+
+Mohamed Wirdane
+
+Founder & Product Architect of NovaForge
+
+Building the future of AI-powered software creation.
