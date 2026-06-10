@@ -2,6 +2,26 @@
 
 ## AI-Powered Application Creation Platform
 
+## Screenshots
+
+### AI Project Builder
+![AI Project Builder](ai-project-builder.png)
+
+### Deploy Monitor
+![Deploy Monitor](deploy-monitor.png)
+
+### Monitoring Dashboard
+![Monitoring Dashboard](monitoring-dashboard.png)
+
+### Project Matrix
+![Project Matrix](project-matrix.png)
+
+### AI Integrations
+![AI Integrations](ai-integrations.png)
+
+### Marketplace
+![Marketplace](marketplace.png)
+
 NovaForge is an AI-driven software creation platform designed to help entrepreneurs, startups, SMEs and developers transform ideas into production-ready applications faster than traditional development methods.
 
 Our vision is to democratize software creation by combining artificial intelligence, automation and modern cloud technologies into a single integrated environment.
