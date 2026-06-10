@@ -1,126 +1,85 @@
-# 🚀 NovaForge AI Studio
+# 🚀 NovaForge
 
-## 🔥 Build real desktop apps with AI — and export them as .exe in seconds
+## AI-Powered Application Creation Platform
 
-NovaForge AI Studio is a powerful all-in-one desktop platform that lets you:
+NovaForge is an AI-driven software creation platform designed to help entrepreneurs, startups, SMEs and developers transform ideas into production-ready applications faster than traditional development methods.
 
-👉 generate
-👉 build
-👉 run
-👉 and export applications
-
-**using AI — locally OR via API (OpenAI / custom backend)**
+Our vision is to democratize software creation by combining artificial intelligence, automation and modern cloud technologies into a single integrated environment.
 
 ---
 
-## ⚡ Why NovaForge is different
+## Mission
 
-Unlike simple AI tools, NovaForge is a **full development environment**:
+Building software remains expensive, complex and time-consuming.
 
-* 🧠 AI-powered project generation (multi-file apps)
-* 🧩 Internal API integration (connect your own AI backend)
-* ⚡ OpenAI token support (no need for Ollama)
-* 🖥️ Built-in code editor + execution system
-* 📦 One-click EXE builder (PyInstaller)
-* 🔐 License system (Free / PRO with activation)
-* 🔄 Auto-update system (GitHub releases)
+NovaForge aims to reduce these barriers by automating the entire application lifecycle:
 
----
-
-## 🤖 AI Modes
-
-NovaForge supports multiple AI engines:
-
-* 🧠 Local AI (Ollama)
-* ☁️ OpenAI (via API key)
-* 🔌 Custom API (your own AI backend)
-
-👉 You can switch anytime.
+* Requirements analysis
+* Application generation
+* UI creation
+* API and database generation
+* Docker environment creation
+* Deployment automation
+* Monitoring and maintenance
 
 ---
 
-## 🛠️ Built-in developer tools
+## Key Features
 
-* Code editor
-* Script execution
-* File explorer
-* API tester (HTTP inspector)
-* System monitoring (CPU / RAM / Network)
-* Project history & versioning
-
----
-
-## 📦 Export your app
-
-Turn any generated project into a Windows `.exe`:
-
-✔️ One-click build
-✔️ Icon support
-✔️ Ready-to-share installer
+* AI-powered project generation
+* Visual application builder
+* Multi-agent AI architecture
+* Automated Docker deployment
+* Linux, VPS and NAS deployment
+* API integration
+* Monitoring and maintenance tools
+* Extensible plugin ecosystem
 
 ---
 
-## 🔄 Auto-update system
+## Current Development Stage
 
-NovaForge can:
+NovaForge is currently in active MVP development.
 
-* Check new versions from GitHub
-* Download installer automatically
-* Update your app in 1 click
+The platform already includes:
 
----
+* Project generation engine
+* Deployment automation tools
+* Developer workspace
+* API integrations
+* Monitoring modules
 
-## 📸 Preview
-
-![NovaForge](https://github.com/buiri1986/Cnovaforge-public/blob/main/app-main.png)
-
----
-
-## 🎯 Use cases
-
-* Build desktop apps fast
-* Launch SaaS tools quickly
-* Generate automation scripts
-* Create internal business tools
-* AI-assisted development workflows
+Additional AI agents and advanced automation capabilities are under development.
 
 ---
 
-## 🆓 Free vs 💎 PRO
+## Market Opportunity
 
-| Feature         | Free    | PRO       |
-| --------------- | ------- | --------- |
-| AI Generation   | Limited | Unlimited |
-| API Integration | ✔️      | ✔️        |
-| EXE Build       | ✔️      | ✔️        |
-| Advanced Tools  | ❌       | ✔️        |
-| Monitoring      | ❌       | ✔️        |
-| License System  | ❌       | ✔️        |
-| Support         | ❌       | ✔️        |
+The rapid adoption of artificial intelligence is transforming software development worldwide.
 
----
+NovaForge targets:
 
-## 💰 Upgrade to PRO
+* Entrepreneurs
+* Startups
+* SMEs
+* Freelancers
+* Software agencies
+* Educational institutions
 
-Unlock full power for only **15€**
-
-👉 https://www.paypal.com/ncp/payment/32YZACU8VL3LJ
+with a scalable SaaS business model.
 
 ---
 
-## 📥 Download
+## Vision 2030
 
-👉 https://github.com/buiri1986/Cnovaforge-public/releases
+NovaForge aims to become a complete AI-powered software creation ecosystem covering the entire application lifecycle from idea to production deployment.
 
----
-
-## 🔐 License
-
-This software is proprietary.
-Unauthorized redistribution is prohibited.
+The long-term objective is to build a European technology platform capable of accelerating digital innovation for businesses of all sizes.
 
 ---
 
-## 🧠 Author
+## Author
 
-NovaForge AI Studio © 2026
+Wirdane
+
+Founder of NovaForge
