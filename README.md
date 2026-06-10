@@ -78,6 +78,8 @@ The long-term objective is to build a European technology platform capable of ac
 
 ---
 
+"NovaForge MVP is already functional and includes project generation, AI-assisted workflows, monitoring tools, deployment automation and developer workspace modules."
+
 ## Author
 
 Wirdane
